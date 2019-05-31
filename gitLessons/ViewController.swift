@@ -19,6 +19,7 @@ class ViewController: UIViewController {
 
     func todo() {
         print("dd")
+        print("masta!!!")
     }
 }
 
