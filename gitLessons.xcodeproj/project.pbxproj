@@ -15,6 +15,8 @@
 		286AA07622A179330031682C /* gitLessonsTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 286AA07522A179330031682C /* gitLessonsTests.swift */; };
 		286AA08122A179330031682C /* gitLessonsUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 286AA08022A179330031682C /* gitLessonsUITests.swift */; };
 		286AA08F22A17CF30031682C /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = 286AA08E22A17CF30031682C /* .gitignore */; };
+		286AA09022A18EF60031682C /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = 286AA08E22A17CF30031682C /* .gitignore */; };
+		286AA09122A18EF70031682C /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = 286AA08E22A17CF30031682C /* .gitignore */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -243,6 +245,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				286AA09022A18EF60031682C /* .gitignore in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -250,6 +253,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				286AA09122A18EF70031682C /* .gitignore in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
